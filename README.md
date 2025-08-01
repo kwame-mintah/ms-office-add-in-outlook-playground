@@ -17,6 +17,6 @@ A place for me to better understand creating add-ins for [Microsoft outlook](htt
 
 ## Getting started
 
-1. Download [npm](https://www.npmjs.com/) and [node](https://nodejs.org/en)
-2. Install [Yeoman generator for Office Add-ins - YO OFFICE!](https://www.npmjs.com/package/generator-office)
-3. Run `yo office --projectType taskpane --name "ms-office-add-in-outlook-playground" --host outlook --ts true`
+1. Download [npm](https://www.npmjs.com/) and [node](https://nodejs.org/en),
+2. Install [Yeoman generator for Office Add-ins - YO OFFICE!](https://www.npmjs.com/package/generator-office),
+3. Run `yo office --projectType taskpane --name "ms-office-add-in-outlook-playground" --host outlook --ts true`.
