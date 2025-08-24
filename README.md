@@ -1,5 +1,7 @@
 # 🛝 Microsoft (ms) office add-in outlook playground
 
+⚠️ ⚠️ Archived because I don't Microsoft 365, which is what you need to be able to add your own add-ins ⚠️ ⚠️
+
 As the name of the repository suggests, it's just a [_playground_](https://dictionary.cambridge.org/dictionary/english/playground). 
 A place for me to better understand creating add-ins for [Microsoft outlook](https://learn.microsoft.com/en-gb/office/dev/add-ins/).
 
